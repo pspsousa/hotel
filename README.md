@@ -1,5 +1,8 @@
 # Hotel_Terabithia
 Hotel para Terabithia, sistema de banco de dados para um hotel.
+
+Exercicios propostos:
+
 ![1 questão](https://github.com/pspsousa/hotel/assets/111404527/e1ebb87e-97cc-4fe9-83c0-1b56c7e05d7d)
 ![2](https://github.com/pspsousa/hotel/assets/111404527/10e727d8-96e0-4274-ab48-68fd6396416e)
 ![3](https://github.com/pspsousa/hotel/assets/111404527/5cb21e90-da70-4f5a-a71b-d6aa7dd403a9)
